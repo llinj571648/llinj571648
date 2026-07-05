@@ -1148,7 +1148,7 @@ star:5
       star: 4
     }
   ],
-  "Classical Guitar": [
+  "ClassicalGuitar": [
     { name: "Classical Guitar Shed", url: "https://www.classicalguitarshed.com", desc: "古典吉他学习与技巧教程", star: 5 },
     { name: "Delcamp Forum", url: "https://www.classicalguitardelcamp.com", desc: "全球古典吉他论坛", star: 5 },
     { name: "Scott Tennant", url: "https://www.scotttennant.com", desc: "吉他大师教学资源", star: 4 },
@@ -1194,7 +1194,7 @@ star:5
     { name: "The Samurai Carpenter", url: "https://www.youtube.com/c/TheSamuraiCarpenter", desc: "精细木工视频", star: 5 }
   ],
 
-  "📚 Philosophy": [
+  "Philosophy": [
     { name: "Stanford Encyclopedia of Philosophy", url: "https://plato.stanford.edu", desc: "权威哲学百科", star: 5 },
     { name: "Internet Encyclopedia of Philosophy", url: "https://iep.utm.edu", desc: "开放哲学百科", star: 5 },
     { name: "PhilPapers", url: "https://philpapers.org", desc: "哲学论文数据库", star: 5 },
