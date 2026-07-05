@@ -1,7 +1,12 @@
 const app = document.getElementById("app");
+
 const data = window.data;
 
-Object.keys(data).forEach(category => {
+if (!data) {
+  console.error("window.data is undefined! Check data.js");
+}
+
+Object.keys(data || {}).forEach(category => {
 
   const items = data[category];
 
