@@ -140,6 +140,7 @@ name:"East Asia Forum",
 url:"https://eastasiaforum.org",
 desc:"东亚政策论坛",
 star:4
+}
 ],
 
 Social:[
@@ -282,6 +283,7 @@ name:"LINE",
 url:"https://line.me",
 desc:"日本即时通讯",
 star:4
+}
 ],
 
 Google:[
@@ -459,6 +461,7 @@ name:"Google Developers",
 url:"https://developers.google.com",
 desc:"开发者中心",
 star:5
+}
 ],
 
 Religion:[
@@ -1144,7 +1147,7 @@ star:5
       desc: "AI行业新闻简报",
       star: 4
     }
-  ]
+  ],
   "🎸 Classical Guitar": [
     { name: "Classical Guitar Shed", url: "https://www.classicalguitarshed.com", desc: "古典吉他学习与技巧教程", star: 5 },
     { name: "Delcamp Forum", url: "https://www.classicalguitardelcamp.com", desc: "全球古典吉他论坛", star: 5 },
