@@ -1,4 +1,4 @@
-const window.data = {
+window.data = {
 
 China: [
 
