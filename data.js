@@ -5,7 +5,7 @@ window.data = {
         name: "ChinaFile",
         url: "https://www.chinafile.com",
       desc: "美国著名中国研究平台",
-      note: "666233",
+      note: "666",
         star: 5
       },
       {
@@ -42,6 +42,7 @@ window.data = {
         name: "CSIS China Power",
         url: "https://chinapower.csis.org",
       desc: "CSIS中国实力项目",
+      note: "关于国际战略研究中心 战略与国际研究中心（CSIS）成立于近60年前的华盛顿特区，是一个两党合作的非营利性政策研究机构，致力于推进解决世界上最大挑战的实用理念。欲了解更多有关CSIS的信息，请访问www.CSIS.org。",
         star: 5
       },
       {
